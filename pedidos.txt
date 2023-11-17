@@ -1,0 +1,65 @@
+Pizza: Frango
+Quantidade: 2
+Mesa: 5
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 5
+Mesa: 7
+
+
+Pizza: Frango
+Quantidade: 1
+Mesa: 1
+
+
+Pizza: Frango
+Quantidade: 4
+Mesa: 2
+
+
+Pizza: Strogonoff
+Quantidade: 6
+Mesa: 7
+
+

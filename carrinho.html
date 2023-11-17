@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="teste.css">
+    <link rel="icon" type="ico" href="image/Pizzaria logo.png">
+    <title>Carrinho de Compras de Pizza</title>
+</head>
+<body>
+    <h1>Menu de Pizza</h1>
+    
+    <form action="carrinho.php" method="post">
+        <label for="pizza">Escolha sua pizza:</label>
+        <select name="pizza" id="pizza">
+            <option value="Frango">Frango</option>
+            <option value="Calabresa">Calabresa</option>
+            <option value="Strogonoff">Strogonoff</option>
+            <option value="Portuguesa">Portuguesa</option>
+            <option value="Confete">Confete</option>
+            <option value="Chocolate">Strogonoff</option>
+        </select>
+
+        <label for="quantidade">Quantidade:</label>
+        <input type="number" name="quantidade" id="quantidade" value="1" min="1">
+        <label for="mesa">Mesa:    (1 a 10)</label>
+        <input type="number" name="mesa" id="mesa" value="1" min="1" max="10">
+
+        <input type="submit" id="send" value="Adicionar ao Carrinho">
+    </form>
+</body>
+</html>
